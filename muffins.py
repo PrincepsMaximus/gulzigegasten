@@ -20,5 +20,5 @@ while True:
         e = (d*4-1)/5
         if (e*4) % 5 != 1:
             continue
-        print(getal)
-        sys.exit()
+        print(getal)        # Geef het getal weer dat heel het proces succesvol doorlopen heeft.
+        sys.exit()          # Einde.
